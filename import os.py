@@ -47,4 +47,5 @@ if __name__ == "__main__":
         logging.info(f"Dados recebidos com sucesso: {prices}")
     else:
         logging.warning("Não foi possível obter os preços nesta tentativa.")
-    
+
+    print("A minha primeira alteração com Git!")
