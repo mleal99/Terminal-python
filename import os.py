@@ -49,3 +49,8 @@ if __name__ == "__main__":
         logging.warning("Não foi possível obter os preços nesta tentativa.")
 
     print("A minha primeira alteração com Git!")
+
+    def apresentar_mensagem():
+        print("Estou a trabalhar na minha primeira branch!")
+
+    apresentar_mensagem()
